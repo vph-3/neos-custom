@@ -132,7 +132,7 @@ Dusty Yellow: https://coolors.co/121212-1c1c1c-2b2b2b-333333-424242-545454-706e6
   --int-btn-bg:          #2B2B2B;                  /* background */
   --int-btn-border:      #416C448C;                /* border */
   --int-btn-txt:         #93BF5A;                  /* text */
-  --int-btn-hgl-bg:      linear-gradient(135deg, #E7FFC9, #c3f189, #b2f063); /* background for hovered/focused buttons */
+  --int-btn-hgl-bg:      linear-gradient(135deg, #E1FC99, #D6F67E, #CAF062); /* background for hovered/focused buttons */
   --int-btn-hgl-txt:     #111111;                  /* text for hovered/focused buttons */                                                                        
   
   --int-bg:              #1D1D1D;                  /* background for input and select elements */
@@ -142,8 +142,8 @@ Dusty Yellow: https://coolors.co/121212-1c1c1c-2b2b2b-333333-424242-545454-706e6
   --int-disabled-bg:     #2B2B2B;                  /* background for disabled buttons and checkboxes */
   --int-checked:         #93BF5A;                  /* checked checkboxes and radio buttons */
   
-  --int-hgl:             #E7FFC9;                  /* highlight for hovered/focused/selected elements */
-  --int-hgl-bg:          linear-gradient(135deg, #E7FFC9, #c3f189, #b2f063); /* background for hovered/focused list items */
+  --int-hgl:             #E1FC99;                  /* highlight for hovered/focused/selected elements */
+  --int-hgl-bg:          linear-gradient(135deg, #E1FC99, #D6F67E, #CAF062); /* background for hovered/focused list items */
   --int-hgl-txt:         #111111;                  /* text for hovered/focused list items and for collection header */
 
 
@@ -198,7 +198,7 @@ Dusty Yellow: https://coolors.co/121212-1c1c1c-2b2b2b-333333-424242-545454-706e6
   --tag-border:          #416C4459;
 
   /* hover and focus */
-  --tag-hgl-bg:          linear-gradient(135deg, #E7FFC9, #c3f189, #b2f063); /* background */
+  --tag-hgl-bg:          linear-gradient(135deg, #E1FC99, #D6F67E, #CAF062); /* background */
   --tag-hgl-txt:         #111111;                  /* text */
 
 
