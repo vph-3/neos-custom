@@ -16,7 +16,7 @@
   height: 16.75vw;
   border-top: var(--border-width) solid var(--border2); /* same as header bottom border */
   background:
-    url("https://github.com/vph-3/neos-custom/blob/my-stuff/Sunny_Clover_Header.png?raw=true") /* paste image url between quotation marks; recommended size: 2240x375px (or same aspect ratio) */
+    url("https://raw.githubusercontent.com/vph-3/neos-custom/refs/heads/my-stuff/Sunny_Clover_Header.png") /* paste image url between quotation marks; recommended size: 2240x375px (or same aspect ratio) */
     var(--bg8) /* fallback background color */
     no-repeat;
   background-size: cover;
